@@ -1,0 +1,11 @@
+C:\Users\kiralybence\Documents\GitHub\KBV-Fadatok\KBV-Fadatok\KBV-Fadatok\bin\Debug\KBV-Fadatok.exe.config
+C:\Users\kiralybence\Documents\GitHub\KBV-Fadatok\KBV-Fadatok\KBV-Fadatok\bin\Debug\KBV-Fadatok.exe
+C:\Users\kiralybence\Documents\GitHub\KBV-Fadatok\KBV-Fadatok\KBV-Fadatok\bin\Debug\KBV-Fadatok.pdb
+C:\Users\kiralybence\Documents\GitHub\KBV-Fadatok\KBV-Fadatok\KBV-Fadatok\obj\Debug\KBV-Fadatok.csproj.AssemblyReference.cache
+C:\Users\kiralybence\Documents\GitHub\KBV-Fadatok\KBV-Fadatok\KBV-Fadatok\obj\Debug\KBV_Fadatok.Form1.resources
+C:\Users\kiralybence\Documents\GitHub\KBV-Fadatok\KBV-Fadatok\KBV-Fadatok\obj\Debug\KBV_Fadatok.Properties.Resources.resources
+C:\Users\kiralybence\Documents\GitHub\KBV-Fadatok\KBV-Fadatok\KBV-Fadatok\obj\Debug\KBV-Fadatok.csproj.GenerateResource.cache
+C:\Users\kiralybence\Documents\GitHub\KBV-Fadatok\KBV-Fadatok\KBV-Fadatok\obj\Debug\KBV-Fadatok.csproj.CoreCompileInputs.cache
+C:\Users\kiralybence\Documents\GitHub\KBV-Fadatok\KBV-Fadatok\KBV-Fadatok\obj\Debug\KBV-Fadatok.exe
+C:\Users\kiralybence\Documents\GitHub\KBV-Fadatok\KBV-Fadatok\KBV-Fadatok\obj\Debug\KBV-Fadatok.pdb
+C:\Users\kiralybence\Documents\GitHub\KBV-Fadatok\KBV-Fadatok\KBV-Fadatok\obj\Debug\KBV-Fadatok.exe.config
